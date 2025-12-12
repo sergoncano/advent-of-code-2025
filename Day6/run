@@ -1,2 +1,0 @@
-#!/bin/fish
-g++ "$1" && cat input | ./a.out
