@@ -1,0 +1,2 @@
+#!/bin/fish
+cat testinput | python3 "$1"
